@@ -12,6 +12,10 @@ gen_complex = False
 # output directory
 output_dir = "./test_binary_files"
 
+# create output directory if it doesn't exist
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
 # file names
 data_simple_fn = "data_simple"
 data_varying_fn = "data_varying"
