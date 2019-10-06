@@ -12,7 +12,10 @@ This project was deveeloped in Python 3.6.9. Please refer to requirements.txt fo
 
 ## Usage
 
+See below for information on generating test data and parsing.
+
 ###Generating Test Data
+
 After cloning the repository, you should run the script [test_data_generator.py](test_data_generator.py) in order to
 create binary files for parsing testing. Modify the following lines to change file sizes:
 
