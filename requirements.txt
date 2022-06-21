@@ -3,7 +3,7 @@ certifi==2019.6.16
 construct==2.9.45
 enum34==1.1.6
 kaitaistruct==0.8
-numpy==1.17.2
+numpy==1.22.0
 python-dateutil==2.8.0
 ruamel.yaml==0.16.5
 ruamel.yaml.clib==0.1.2
