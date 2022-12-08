@@ -1,5 +1,5 @@
 arrow==0.15.2
-certifi==2019.6.16
+certifi==2022.12.7
 construct==2.9.45
 enum34==1.1.6
 kaitaistruct==0.8
